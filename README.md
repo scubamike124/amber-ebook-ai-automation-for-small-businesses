@@ -7,11 +7,10 @@ This repository is a **listing only** — manuscripts and PDFs are **not** inclu
 
 | Edition | Price | Buy (Stripe on Amber HQ) |
 |---|---:|---|
-| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_ai-automation-for-small-businesses_mt3ippdu&product=short) |
-| Complete | $30.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_ai-automation-for-small-businesses_mt3ippdu&product=long) |
+| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-automation-for-small-businesses_mt3ippdu&product=short) |
+| Complete | $30.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-automation-for-small-businesses_mt3ippdu&product=long) |
 
-Full catalog: https://hq.amberoneai.com/store/ebooks  
-If a buy link is still deploying, open the store and select **AI Automation for Small Businesses: A Practical Guide**.
+Or open the full catalog and select **AI Automation for Small Businesses: A Practical Guide**: https://hq.amberoneai.com/store/ebooks
 
 ## About
 
