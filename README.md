@@ -16,7 +16,7 @@ Or open the full catalog and select **AI Automation for Small Businesses: A Prac
 
 ## About
 
-The market shows strong current demand for AI automation in small businesses through active tool development and entrepreneurial discussion, yet lacks a comprehensive book bridging the gap between technical AI capabilities and practical small business implementation. While general business automation and AI strategy books exist separately, there's no verified resource specifically helping small business owners (non-technical audience) systematically identify automation opportunities, evaluate AI tools, and implement solutions across common functions like customer support, bookkeeping, content creation, and administrative tasks. The 11 HN threads demonstrate fragmented point solutions seeking integration into coherent business workflows—exactly what a well-structured book could provide.
+The market shows strong current demand for AI automation in small businesses through active tool development and entrepreneurial discussion, yet lacks a comprehensive book bridging the gap between technical AI capabilities and practical small business implementation. While general business automation and AI strategy books exist separately, there's no verified resource specifically helping small business owners (non-technical audience) systematically identify automation opportunities, evaluate AI tools, and implement solutions across common functions like customer support, bookkeeping, content creation, and administrative tasks. The 11 HN threads demonstrate fragmented point solutions seeking integration into coherent business workflowsG��exactly what a well-structured book could provide.
 
 ## Payment & delivery
 
